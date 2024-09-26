@@ -1,28 +1,9 @@
 /*
  *PayoffDebt.java
  * Author:  Caleb Odunade
- * Submission Date:  [Submission date here]
- *
  * Purpose: This programs purpose is to calculate Credit Card Pay off by using the input of the 
  * Principal Amount, Annual Interest Rate, Monthly Payment to make an output of the months 
  * left to pay off, the total amount paid, Total Interest Paid, and Overpayment. 
- * 
- *
- * Statement of Academic Honesty:
- *
- * The following code represents my own work. I have neither 
- * received nor given inappropriate assistance. I have not copied 
- * or modified code from any source other than the course webpage 
- * or the course textbook. I recognize that any unauthorized 
- * assistance or plagiarism will be handled in accordance with 
- * the University of Georgia's Academic Honesty Policy and the 
- * policies of this course. I recognize that my work is based 
- * on an assignment created by the School of Computing 
- * at the University of Georgia. Any publishing or
- * posting of source code for this assignment is strictly 
- * prohibited unless you have written consent from the 
- * School of Computing at the University of Georgia.  
- */
 import java.util.Scanner;
 public class PayoffDebt {
 	public static void main(String[] args) {
